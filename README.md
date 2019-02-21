@@ -6,4 +6,4 @@ Links and Notes
 
 **Geeks for Geeks [here](https://www.geeksforgeeks.org/)**
 
-**Project Euler[here](https://projecteuler.net/)**
+**Project Euler [here](https://projecteuler.net/)**
