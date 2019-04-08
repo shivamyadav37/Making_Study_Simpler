@@ -10,4 +10,4 @@
 
 **Project Euler [here](https://projecteuler.net/)**
 
-**PyTorch[here](pytorch.org)**
+**PyTorch [here](https://pytorch.org/)**
