@@ -9,3 +9,5 @@
 **Geeks for Geeks [here](https://www.geeksforgeeks.org/)**
 
 **Project Euler [here](https://projecteuler.net/)**
+
+**PyTorch[here](pytorch.org)**
